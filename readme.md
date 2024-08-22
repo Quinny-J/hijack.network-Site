@@ -1,10 +1,11 @@
 # 🌐 Q's Site
 
 This is my personal website/portfolio [Visit](https://hijack.network)
+Powered by Flask and NGINX
 
 ## 📖 Overview
 
-This website showcases my skills, services, and portfolio and tt also includes a contact form for inquiries and a secret admin page for managing contact requests.
+This website showcases my skills, services, and portfolio and it also includes a contact form for inquiries and a secret admin page for managing contact requests.
 > Note /admin?key=C0D3N4T10N will allow access to see the submitted contacts
 
 ## 📌 Features
