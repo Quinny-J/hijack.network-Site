@@ -1,6 +1,6 @@
 # 🌐 Q's Site
 
-This is my personal website/portfolio [Visit](http://hijack.network)
+This is my personal website/portfolio [Visit](https://hijack.network)
 
 ## 📖 Overview
 
