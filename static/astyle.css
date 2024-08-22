@@ -1,0 +1,40 @@
+
+body {
+    background-color: #1a202c;
+    color: #e2e8f0;
+    font-family: 'Inter', sans-serif;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 2rem;
+}
+
+.table-container {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+th, td {
+    padding: 0.75rem;
+    border-bottom: 1px solid #4a5568;
+}
+
+th {
+    background-color: #2d3748;
+    font-weight: bold;
+}
+
+td {
+    background-color: #1a202c;
+}
+
+.table-row:hover {
+    background-color: #2d3748;
+}
