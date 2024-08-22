@@ -36,7 +36,7 @@ def contact():
 # render the admin page and check if we have a ?key arg
 @app.route('/admin')
 def admin():
-    # take the key arg anc check if is the correct key
+    # take the key arg and check if is the correct key
     # if not return 403 and show a error
     # could work this into error pages but for now its ok
     access_key = request.args.get('key')
